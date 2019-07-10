@@ -2,7 +2,7 @@
   "name": "rounding-decimal",
   "version": "1.0.0",
   "description": "Accurate Rounding up to 16n decimal places",
-  "main": "index.js",
+  "main": "index.min.js",
   "license": "MIT",
   "keywords": [
     "decimal",
