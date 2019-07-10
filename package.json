@@ -1,6 +1,6 @@
 {
   "name": "rounding-decimal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Accurate Rounding up to 16n decimal places",
   "main": "index.min.js",
   "license": "MIT",
