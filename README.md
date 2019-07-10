@@ -115,8 +115,8 @@ rounding.floor(MY_VALUE, MY_DECIMAL_LENGTH)
 }
 ```
 
-2. `npm login`
-3. `npm publish`
+3. `npm login`
+4. `npm publish`
 
 ##### \*\*\* update package
 
