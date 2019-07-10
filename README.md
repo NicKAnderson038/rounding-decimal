@@ -106,11 +106,11 @@ rounding.floor(MY_VALUE, MY_DECIMAL_LENGTH)
 
 ```json
 {
-  "name": "name-of-project-for-npm", // unique
-  "version": "1.0.0", // start off 1.0.0
+  "name": "unique-npm-project-name",
+  "version": "1.0.0", //_begin_with_1.0.0
   "description": "Descripton of my application",
   "main": "index.min.js",
-  "license": "MIT", // open source license!
+  "license": "MIT", //_open_source_license!
   "keywords": ["list", "of", "searchable", "key", "words"]
 }
 ```
