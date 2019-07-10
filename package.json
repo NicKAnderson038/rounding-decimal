@@ -9,6 +9,9 @@
     "rounding",
     "nearest",
     "16n",
-    "rounding-decima"
+    "rounding-decimal",
+    "string",
+    "number",
+    "type-safe"
   ]
 }
