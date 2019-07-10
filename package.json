@@ -7,6 +7,8 @@
   "keywords": [
     "decimal",
     "rounding",
+    "ceil",
+    "floor",
     "nearest",
     "16n",
     "rounding-decimal",
