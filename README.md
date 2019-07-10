@@ -41,7 +41,7 @@ rounding.up(MY_VALUE, MY_DECIMAL_LENGTH) // 1.29 🏁
 
 ### Size 🔬
 
-Less-than < 1.5 kilobytes
+Less-than < 2 kilobytes
 
 #
 
